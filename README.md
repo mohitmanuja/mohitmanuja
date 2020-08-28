@@ -14,8 +14,8 @@
 </a>
 
 
-
-<br />
+<br>
+<br>
 
 Hi, I'm [Mohit Manuja](https://mohitmanuja.github.io), an Android App Developer 🚀 from India, currently, I'm a Freelancer, former Android Developer at Mobikwik and an aspiring Technopreneur. Beside's programming, I enjoy eating food and traveling.
 
