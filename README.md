@@ -24,7 +24,7 @@ Hi, I'm [Mohit Manuja](https://mohitmanuja.github.io), an Android App Developer 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Backend Development; 
+- 🌱 I’m currently learning Game Development (Unity 3D); 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [Email](mailto:manuja.mohit@gmail.com);
 <!-- - 📝[Resume](https://drive.google.com/file/d/10GKdScol1BXsMQmSVO30rswZ8lqkakmy/view)
