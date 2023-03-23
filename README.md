@@ -17,17 +17,16 @@
 <br>
 <br>
 
-Hi, I'm [Mohit Manuja](https://mohitmanuja.github.io), an Android App Developer 🚀 from India, currently, I'm a Freelancer, former Android Developer at Mobikwik and an aspiring Technopreneur. Beside's programming, I enjoy eating food and traveling.
+Hi, I'm [Mohit Manuja](https://mohitmanuja.github.io), a Senior Android App Developer 🚀 from India, currently, I'm a Freelancer, former Android Developer at Airblack, Mobikwik and an aspiring Technopreneur. Beside's programming, I enjoy eating food and traveling.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Game Development (Unity 3D); 
+- 👨🏽‍💻 I’m currently looking for full time opportunity;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [Email](mailto:manuja.mohit@gmail.com);
-<!-- - 📝[Resume](https://drive.google.com/file/d/10GKdScol1BXsMQmSVO30rswZ8lqkakmy/view)
+<!-- - 📝[Resume](https://drive.google.com/file/d/1ZJR94ABQBQ98ypBsKZ56vSxLUZvYhIls/view)
  -->
 **Languages and Tools:**  
 
